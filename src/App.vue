@@ -1,6 +1,7 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+<script>
+  export default {
+
+  }
 </script>
 
 <template>
@@ -17,7 +18,7 @@ import TheWelcome from './components/TheWelcome.vue'
   </main>
 </template>
 
-<style scoped>
+<style>
 header {
   line-height: 1.5;
 }
